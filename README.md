@@ -1,11 +1,15 @@
 # mini-repo
-👋 Hi, I'm Souvik Biswas — a curious developer blending code with creativity.
+👋 Hey there! I'm Souvik Biswas — a beginner web developer passionate about turning ideas into clean, creative websites.
 
-🔧 Currently exploring the world of **JavaScript**, debugging logic, and building interactive features.  
-🎨 Passionate about **design tools like Figma**, where I experiment with curved frames, transparency, and visual storytelling.  
-🧠 I enjoy customizing my dev environment with themes like JellyFish and optimizing workflows using **GitHub Copilot** and **VS Code extensions**.
+💻 Currently learning:
+- **HTML** for structure
+- **CSS** for style
+- **JavaScript** for interactivity (soon!)
 
-📦 I believe in hands-on learning, persistent problem-solving, and creating tools that are both functional and beautiful.
+🎨 I love exploring design tools like **Figma** and customizing my coding environment with cool themes and extensions in **VS Code**.
 
-🚀 Let's build something cool together.
+🛠️ I'm also experimenting with **GitHub Copilot** to boost my workflow and learn smarter.
+
+📚 Every day is a new chance to build, break, and learn — follow along as I grow from beginner to builder!
+
 
